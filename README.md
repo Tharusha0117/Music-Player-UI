@@ -1,2 +1,16 @@
-# Music-Player-UI
-This Flutter Music Player UI features a rotating album art, animated gradient background, and blurred overlay for a sleek design. It includes a smooth progress bar, Play/Pause button animations, and displays song and artist names, providing an engaging and visually appealing user experience.
+# musicplayer
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
